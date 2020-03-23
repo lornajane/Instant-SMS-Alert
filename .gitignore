@@ -1,5 +1,7 @@
 **/.env 
+**/.flaskenv
 **/.DS_Store
 **/private.key
 **/node_modules/
 **/env/
+**/__pycache__/
